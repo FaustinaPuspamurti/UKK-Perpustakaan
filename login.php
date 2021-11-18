@@ -91,7 +91,6 @@ if( isset($_POST['submit']) ){
                                 <input type="password" class="form-control"name="password" id="exampleFormControlInput1"
                                     placeholder="Password">
                                     <br>
-                                <p> Belum Punya Account? <a href="register.php">Buat Akun</a></p>
                             </div>
                             <div class="mb-2">
                                 <button type="submit" name="submit" class="btn mb-3">Login</button>
