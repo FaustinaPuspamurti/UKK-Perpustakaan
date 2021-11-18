@@ -19,8 +19,6 @@ include('navbar.php');
                 <th>No</th>
                 <th>Nama</th>
                 <th>Username</th>
-                <th>Alamat</th>
-                <th>Nomer Hp</th>
             </tr>
         </thead>
         <tbody>
@@ -32,8 +30,6 @@ include('navbar.php');
                     <td><?= $no++?></td>
                     <td><?= $dt['nama']?></td>
                     <td><?= $dt['username']?></td>
-                    <td><?= $dt['alamat']?></td>
-                    <td><?= $dt['no_hp']?></td>
                 </tr>
             <?php } ?>
         </tbody>
