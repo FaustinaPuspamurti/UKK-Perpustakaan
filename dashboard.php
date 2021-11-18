@@ -37,7 +37,7 @@
         </div>
         <div class="row" data-aos="zoom-in-up">
             <div class="col-md-12 text-center">
-                <a type="button" class="btn btn-primary" href="register.php">Masuk</a>
+                <a type="button" class="btn btn-primary" href="login.php">Masuk</a>
             </div>
         </div>
     </div>
